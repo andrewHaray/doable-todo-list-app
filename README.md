@@ -444,16 +444,6 @@ Distributed under the MIT License. Click [LICENSE.md](https://github.com/theakhi
 - [SQLite](https://www.sqlite.org) for reliable local storage
 - [Material Design](https://material.io) for design inspiration
 
-<!-- CONTACT -->
-## 📞 Support
-
-Akhin Abraham - [instagram.com/akhinabr](https://instagram.com/akhinabr) - theakhinabraham@gmail.com
-
-Repository Link: [https://github.com/theakhinabraham/doable-todo-list-app](https://github.com/theakhinabraham/doable-todo-list-app)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
